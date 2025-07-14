@@ -1,4 +1,4 @@
-#  ig Data en GCP
+#  Big Data en GCP
 
 Este repositorio contiene dos implementaciones de arquitecturas de Big Data en Google Cloud Platform (GCP): procesamiento por lotes (batch) y procesamiento en tiempo real (streaming).
 
